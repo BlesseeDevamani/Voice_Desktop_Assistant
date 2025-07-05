@@ -41,7 +41,7 @@ Open your terminal or Command Prompt:
 ```bash
 mkdir voice-desktop-assistant
 cd voice-desktop-assistant
-2️⃣ Create and Activate Virtual Environment
+### 2️⃣ Create and Activate Virtual Environment
 Create a virtual environment:
 
 bash
@@ -64,14 +64,14 @@ Edit
 source venv/bin/activate
 You’ll see (venv) in your terminal – that means you’re ready!
 
-3️⃣ Install Dependencies
+### 3️⃣ Install Dependencies
 Run:
 
 bash
 Copy
 Edit
 pip install SpeechRecognition pyttsx3 pywhatkit wikipedia pyjokes
-4️⃣ Create the Assistant Script
+###4️⃣ Create the Assistant Script
 Create a file called assistant.py and paste the following code:
 
 python
