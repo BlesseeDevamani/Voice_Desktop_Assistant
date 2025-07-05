@@ -41,6 +41,9 @@ Open your terminal or Command Prompt:
 ```bash
 mkdir voice-desktop-assistant
 cd voice-desktop-assistant
+
+---
+
 ### 2️⃣ Create and Activate Virtual Environment
 Create a virtual environment:
 
