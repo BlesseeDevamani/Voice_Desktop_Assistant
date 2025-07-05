@@ -34,7 +34,7 @@ Follow these steps to build and run GIRI:
 
 ---
 
-### 1️⃣ Create Project Folder
+1️⃣ Create Project Folder
 
 Open your terminal or Command Prompt:
 
@@ -44,7 +44,7 @@ cd voice-desktop-assistant
 
 ---
 
-### 2️⃣ Create and Activate Virtual Environment
+ 2️⃣ Create and Activate Virtual Environment
 Create a virtual environment:
 
 bash
