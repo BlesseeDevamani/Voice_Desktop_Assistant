@@ -27,7 +27,7 @@ This is **BLESSEE**, a beginner-friendly desktop voice assistant that you can bu
 ---
 
 ## 🚀 Setup Instructions
-
+# Steps
  1️⃣ Create Project Folder
 ```bash
 mkdir voice-desktop-assistant
