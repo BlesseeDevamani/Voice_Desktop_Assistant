@@ -28,13 +28,13 @@ This is **BLESSEE**, a beginner-friendly desktop voice assistant that you can bu
 
 ## 🚀 Setup Instructions
 
-### 1️⃣ Create Project Folder
+ 1️⃣ Create Project Folder
 ```bash
 mkdir voice-desktop-assistant
 cd voice-desktop-assistant
 py coding! 🌟
 
-### 2️⃣ Create and Activate Virtual Environment
+ 2️⃣ Create and Activate Virtual Environment
 python -m venv venv
 
  Windows
@@ -44,10 +44,10 @@ venv\Scripts\activate
 source venv/bin/activate
 
 
-# 3️⃣ Install Dependencies
+ 3️⃣ Install Dependencies
 pip install SpeechRecognition pyttsx3 pywhatkit wikipedia pyjokes
 
 
-# 4️⃣ Create the Assistant Script
+ 4️⃣ Create the Assistant Script
 echo > assistant.py   # This creates the assistant.py file
 
