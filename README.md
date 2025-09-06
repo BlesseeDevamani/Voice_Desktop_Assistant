@@ -6,8 +6,7 @@ This is **BLESSEE**, a beginner-friendly desktop voice assistant that you can bu
 
 ---
 
-## ✨ Features
-
+## ✨ Features 
 ✅ Listen to your voice  
 ✅ Understand what you said  
 ✅ Open Chrome or VS Code  
@@ -65,16 +64,17 @@ bash
 Copy
 Edit
 source venv/bin/activate
-You’ll see (venv) in your terminal – that means you’re ready!
-
-### 3️⃣ Install Dependencies
+You’ll see (venv) in your terminal – that means you’re ready
+---
+# 3️⃣ Install Dependencies
 Run:
 
 bash
 Copy
 Edit
 pip install SpeechRecognition pyttsx3 pywhatkit wikipedia pyjokes
-###4️⃣ Create the Assistant Script
+---
+#4️⃣ Create the Assistant Script
 Create a file called assistant.py and paste the following code:
 
 python
