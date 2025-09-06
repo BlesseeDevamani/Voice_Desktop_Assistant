@@ -31,7 +31,6 @@ This is **BLESSEE**, a beginner-friendly desktop voice assistant that you can bu
 
 Follow these steps to build and run GIRI:
 
----
 
 1️⃣ Create Project Folder
 
@@ -41,7 +40,7 @@ Open your terminal or Command Prompt:
 mkdir voice-desktop-assistant
 cd voice-desktop-assistant
 
----
+
 
  2️⃣ Create and Activate Virtual Environment
 Create a virtual environment:
