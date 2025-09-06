@@ -29,7 +29,7 @@ This is **BLESSEE**, a beginner-friendly desktop voice assistant that you can bu
 
 ## 🚀 Setup Instructions
 
-Follow these steps to build and run GIRI:
+Follow these steps to build and run BLESSEE:
 
 ## 1️⃣ Create Project Folder
 
